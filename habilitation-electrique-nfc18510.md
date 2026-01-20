@@ -8,8 +8,6 @@ conformément à la **norme NF C 18-510**.
 Les réponses servent à orienter vers la **formation adaptée**.  
 La délivrance finale de l’habilitation reste de la responsabilité de l’employeur.
 
----
-
 ## 1️⃣ Type de formation demandée
 
 ? Quelle est votre situation ?
@@ -173,3 +171,4 @@ selon les missions réellement exercées.
 - Une **évaluation théorique et pratique** est obligatoire
 
 📞 Pour toute précision, contactez votre organisme de formation.
+
